@@ -23,57 +23,7 @@ import contar from  './contar.vue';
     <div class="wrapper">
       <contar />
     </div>
-    <div class="content">
-
-      <img class="corinto" src="./assets/Nagarote_Nicaragua.jpg" alt="Imagen de Nagarote" title="Nagarote Leon Nicaragua">
-      <h3>Nagarote (Camino de los Nagrandanos) es un municipio del departamento de León en la República de Nicaragua.
-      </h3>
-
-      <p>Es reconocido como "Municipio Azul" siendo municipio modelo destacado en la gestión ambiental y desde hace
-        décadas es considerado "el más limpio de Nicaragua".</p>
-
-      <h3>Toponimia</h3>
-      <p>Según algunos autores, el origen del nombre de "Nagarote" es chorotega y significa "en el camino de los
-        Nagrandanos", de las voces "Nagrand" - "Nagrandanos" y “Otli” - "camino".
-        Otros investigadores afirman que se deriva de los vocablos "Nahualli – Otli" y se traduce como "camino de
-        brujos".</p>
-
-
-      <h3>Geografía</h3>
-      <p>
-        Se ubica en el departamento de León a una extensión de 598.4 km², está ubicada entre las coordenadas 12° 16′ 3″
-        de latitud norte y 86° 33 55″ de longitud oeste, a una altitud de 86 m s. n. m.
-
-        Sus límites geográficos son:
-
-        al norte con el municipio de La Paz Centro y el Lago Xolotlán
-        al sur con el municipio de Villa El Carmen
-        al este con el municipio de Mateare
-        al oeste con el Océano Pacífico.
-        Historia
-        El lugar fue conocido desde antes de la conquista española por su antiquísimo árbol de genízaro el cual, según
-        se cree, vivió casi 800 años, hasta que fue impactado por un rayo y se decidió preservarlo en el Museo
-        municipal, con su tronco y ramas se elaboraron utensilios decorativos que son exhibidos en dicho museo.
-
-        Se ubicó en el cacicazgo de Imabite, sobre una llanura costera lindante con el océano Pacífico y el lago
-        Xolotlán, las montañas de Matiari (actual Mateare) y la encomienda de León Viejo (hoy La Paz Centro), a orillas
-        de la cordillera de los Marrabios.
-
-        Esta llanura estaba enriquecida con pequeñas fuentes de agua dulce (vertientes) y de ríos pequeños que
-        permanecían hasta en épocas de verano con mucha agua. Entre estos ríos se destacan los conocidos hoy, o fueron
-        conocidos con los nombres de: El Pital, Soledad, Patastule, San Antonio, El Caimito, Las Tranquitas, El Obraje,
-        Dos Ríos, San Luis, San Pedro, Palo de Sangre, Naranjo, Santiago y Sayulapa.
-
-        En documento histórico de 1548, Nagarote aparece mencionado como encomienda del rey de España.
-
-        Su primera iglesia fue erigida en 1650, con el nombre de "Santiago de La Concepción" de la villa de Nagarote.
-
-        Fue elevado a rango de ciudad por Ley legislativa del Congreso Nacional de Nicaragua el 4 de junio de 1963.
-
-        Nagarote tuvo antiguamente un floreciente puerto marítimo llamado Puerto Sandino. Este puerto fue atacado en
-        1983, con mucha destrucción de las instalaciones que efectivamente destruyeron el puerto.</p>
-
-    </div>
+   
   </div>
 </template>
 
