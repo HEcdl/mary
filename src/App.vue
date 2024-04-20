@@ -17,15 +17,16 @@ import contar from  './contar.vue';
     </div>
     <div class="descrip">
       <h2>Maria Rosa Brenes</h2>
-      <h2>Carnet: 21--1</h2>
+      <h2>Carnet: 20-01866-1</h2>
     </div>
     <h3>Incrementa tus puntos</h3>
     <div class="wrapper">
       <contar />
     </div>
-   <div class="content">
+    <div class="content">
 
-      <img class="corinto" src="./assets/Nagarote_Nicaragua.jpg" alt="Imagen de Nagarote" title="Nagarote Leon Nicaragua">
+      <img class="corinto" src="./assets/Nagarote_Nicaragua.jpg" alt="Imagen de Nagarote"
+        title="Nagarote Leon Nicaragua">
       <h3>Nagarote (Camino de los Nagrandanos) es un municipio del departamento de León en la República de Nicaragua.
       </h3>
 
