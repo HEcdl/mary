@@ -16,7 +16,7 @@ import contar from  './contar.vue';
       <img alt="Vue logo" class="logo" src="./assets/mary.jpg" />
     </div>
     <div class="descrip">
-      <h2>Maria Rosa Brenes</h2>
+      <h2>María Mercedes Robelo Brenes</h2>
       <h2>Carnet: 20-01866-1</h2>
     </div>
     <h3>Incrementa tus puntos</h3>
